@@ -1402,7 +1402,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 /* Screenshot area css
 ============================================================================================ */
 .screenshot_area {
-  background: #f1f1f1;
+  background: #fff;
   padding: 0px 0px;
 }
 
@@ -1691,7 +1691,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 .benefits_collaps .panel-group .panel-default .panel-heading .panel-title a {
   line-height: 40px;
   padding: 0px 15px;
-  background: #f1f1f1;
+  background: #fff;
   display: block;
   width: 100%;
   color: #4A8902;
@@ -1734,7 +1734,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
   border: none;
   -webkit-box-shadow: none;
   box-shadow: none;
-  background: #f1f1f1;
+  background: #fff;
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
   padding: 10px 15px 20px 15px;
@@ -1773,7 +1773,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 /* Asked question area css
 ============================================================================================ */
 .asked_question_area {
-  background: #f1f1f1;
+  background: #fff;
   padding: 100px 0px 0px 0px;
   overflow: hidden;
 }
@@ -1863,7 +1863,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 .clients_feedback_area {
   overflow: hidden;
   clear: both;
-  background: #f1f1f1;
+  background: #fff;
   padding: 0px 0px;
 }
 
@@ -2159,7 +2159,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 /* Download area css
 ============================================================================================ */
 .download_area {
-  background: #f1f1f1;
+  background: #fff;
   padding: 100px 0px;
 }
 
@@ -2587,7 +2587,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 ============================================================================================ */
 .latest_blog_area {
   padding: 100px 0px;
-  background: #f1f1f1;
+  background: #fff;
 }
 
 .latest_blog_area.purple_blog .latest_blog_item .l_blog_img .l_blog_hover {
@@ -3202,7 +3202,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 }
 
 .blog_details_inner .blog_quote {
-  background: #f1f1f1;
+  background: #fff;
   line-height: 24px;
   font-family: "Lato", sans-serif;
   font-size: 14px;
@@ -3365,7 +3365,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 }
 
 .purple_blog .blog_details_inner .blog_quote {
-  background: #f1f1f1;
+  background: #fff;
   line-height: 24px;
   font-family: "Lato", sans-serif;
   font-size: 14px;
