@@ -6,8 +6,31 @@
         padding-top: 10px;
         padding-bottom: 0px;
     }
+    .main_title h2 {
+        text-align: center;
+        font-size: 36px;
+        font-weight: bold;
+        text-transform: uppercase;
+        color: #4A8902;
+        padding-bottom: 35px;
+        position: relative;
+        display: inline-block;
+      }
+      
+      .main_title h2:before {
+        content: "";
+        background: #4A8902;
+        width: 70px;
+        height: 1px;
+        position: absolute;
+        left: 0px;
+        right: 0px;
+        bottom: 10px;
+        margin: auto;
+      }
 }
 @media (max-width: 1199px){
+    
     .slider_man_shap{
         width: 400px !important;
     }
@@ -180,7 +203,34 @@
         margin-top: 15px;
     }
 }
-@media (max-width: 767px){
+@media (max-width: 768px){
+    
+.slider_area .rev_slider ul li .register_angkar_btn {
+    width: 220px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+    height: 64px;
+    line-height: 64px;
+    font-size: 16px;
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    text-transform: uppercase;
+    position: relative;
+    z-index: 2;
+    -webkit-transition: all 400ms linear 0s;
+    -o-transition: all 400ms linear 0s;
+    transition: all 400ms linear 0s;
+    overflow: hidden;
+    margin-left: 50px;
+  }
+    
+    .slider_area .rev_slider ul li .first_text {
+        color: #fff;
+        font-family: "Montserrat", sans-serif;
+        padding-left: 50px;
+    }
     .slider_shap {
         width: 200px;
         height: 400px;
@@ -275,4 +325,32 @@
     .contact_info .contact_details {
         padding: 60px 0px 0px 0px;
     }
+    .main_title h2 {
+        text-align: center;
+        font-size: 26px;
+        font-weight: bold;
+        text-transform: uppercase;
+        color: #4A8902;
+        padding-bottom: 35px;
+        position: relative;
+        display: inline-block;
+      }
+      
+      .main_title h2:before {
+        content: "";
+        background: #4A8902;
+        width: 70px;
+        height: 1px;
+        position: absolute;
+        left: 0px;
+        right: 0px;
+        bottom: 10px;
+        margin: auto;
+      }
+      .custom-h3{
+        color: #4A8902;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 600;
+        font-size: 17px;
+      }
 }
