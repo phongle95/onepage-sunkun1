@@ -11,7 +11,7 @@
         font-size: 36px;
         font-weight: bold;
         text-transform: uppercase;
-        color: #4A8902;
+        color: #991217;
         padding-bottom: 35px;
         position: relative;
         display: inline-block;
@@ -19,7 +19,7 @@
       
       .main_title h2:before {
         content: "";
-        background: #4A8902;
+        background: #991217;
         width: 70px;
         height: 1px;
         position: absolute;
@@ -207,14 +207,14 @@
     
 .slider_area .rev_slider ul li .register_angkar_btn {
     width: 220px;
-    border: 2px solid #fff;
+    border: 2px solid #991217;
     border-radius: 5px;
     display: inline-block;
     text-align: center;
     height: 64px;
     line-height: 64px;
     font-size: 16px;
-    color: #fff;
+    color: #991217;
     font-family: "Montserrat", sans-serif;
     text-transform: uppercase;
     position: relative;
@@ -227,7 +227,7 @@
   }
     
     .slider_area .rev_slider ul li .first_text {
-        color: #fff;
+        color: #991217;
         font-family: "Montserrat", sans-serif;
         padding-left: 50px;
     }
@@ -330,7 +330,7 @@
         font-size: 26px;
         font-weight: bold;
         text-transform: uppercase;
-        color: #4A8902;
+        color: #991217;
         padding-bottom: 35px;
         position: relative;
         display: inline-block;
@@ -338,7 +338,7 @@
       
       .main_title h2:before {
         content: "";
-        background: #4A8902;
+        background: #991217;
         width: 70px;
         height: 1px;
         position: absolute;
@@ -348,7 +348,7 @@
         margin: auto;
       }
       .custom-h3{
-        color: #4A8902;
+        color: #991217;
         font-family: Arial, Helvetica, sans-serif;
         font-weight: 600;
         font-size: 17px;

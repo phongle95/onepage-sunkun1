@@ -546,7 +546,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 }
 
 .slider_area .rev_slider ul li .first_text {
-  color: #fff;
+  color: #991217;
   font-family: "Montserrat", sans-serif;
 }
 
@@ -557,14 +557,14 @@ body, p, h1, h2, h3, h4, h5, h6 {
 
 .slider_area .rev_slider ul li .register_angkar_btn {
   width: 220px;
-  border: 2px solid #fff;
+  border: 2px solid #991217;
   border-radius: 5px;
   display: inline-block;
   text-align: center;
   height: 64px;
   line-height: 64px;
   font-size: 16px;
-  color: #fff;
+  color: #991217;
   font-family: "Montserrat", sans-serif;
   text-transform: uppercase;
   position: relative;
